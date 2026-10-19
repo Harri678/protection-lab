@@ -1,7 +1,7 @@
-def Hello()
+def Hello():
   print("Hello world")
 
-def Main()
+def Main():
   Hello()
 
 Main()

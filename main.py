@@ -1,11 +1,11 @@
 def Hello():
   print("Hello world")
 
-def Ruin():
-  return 10 / 0
+def Unruined():
+  return 10 / 10
 
 def Main():
   Hello()
-  variable = Ruin()
+  variable = Unruined()
 
 Main()
